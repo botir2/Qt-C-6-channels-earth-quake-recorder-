@@ -2,3 +2,6 @@
 Qt C++ 6 channels earth quake recorder 
 Working with rasoberry pi 3 lite 
 add special parameters which given below inside the codes
+/home/pi/SeisRecorder/RecorderEarthquake
+/home/pi/SeisRecorder/ringserver
+$/mnt
